@@ -9,7 +9,7 @@ Welcome to my GitHub — where curiosity meets code, and learning never stops. I
 - 🐾 Kind-hearted and driven by emotion, compassion, and a desire to create impact  
 - 📝 I love storytelling — whether through data, words, or experiences  
 - ✍️ I write stories on life, growth, and success — drawn from personal reflections and written whenever inspiration finds me  
-- 🎶 Deeply inspired by music (especially BTS), nature, and meaningful connections  
+- 🎶 Deeply inspired by music, nature, and meaningful connections  
 
 ---
 
@@ -32,7 +32,7 @@ Welcome to my GitHub — where curiosity meets code, and learning never stops. I
 ## 📫 Let's Connect!
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sravanthi-m-57645b330/)  
 - 📧 sravanthimutyala31@gmail.com  
-
+- 🔗 https://medium.com/@ToMyWorld
 ---
 **⚡ Fun Fact:** I believe that **music, dreams, and doing the things we love** can introduce us to **new versions of ourselves** — more alive, more connected, and more *us* 💜
 
@@ -42,3 +42,4 @@ Welcome to my GitHub — where curiosity meets code, and learning never stops. I
 Languages:     HTML | CSS | SQL | JavaScript (learning)
 Tools:         Power BI | Excel | MS Office | Git | VS Code
 Field:         Data Science | Storytelling | Visualization
+

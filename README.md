@@ -14,7 +14,7 @@ Welcome to my GitHub — where curiosity meets code, and learning never stops. I
 ---
 
 ## 💻 What I'm Doing
-- 🔭 Working as a **Data Science Intern**, gaining hands-on experience with real-world data  
+- 🔭 Worked as a **Data Science Intern**, and gained hands-on experience with real-world data. And usage of Algorithms in the dataset. 
 - 🌱 Learning JavaScript and enhancing my development + analytical skills  
 - 🧠 Exploring ways to combine storytelling and data for powerful insights  
 

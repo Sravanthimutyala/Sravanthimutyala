@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Sravanthi Mutyala  
-### 🌸 Dreamer | Creator | Data Enthusiast | Nature Lover 🌿  
+### 🌸 Dreamer | Creator | Data Enthusiast | Nature Lover🌿  
 
 Welcome to my GitHub — where curiosity meets code, and learning never stops. I believe that passion, creativity, and consistency can shape not only great projects but also better versions of ourselves.  
 

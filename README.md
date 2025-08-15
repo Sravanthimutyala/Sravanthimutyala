@@ -1,13 +1,13 @@
 # Hi there 👋, I'm Sravanthi Mutyala  
 ### 🌸 Dreamer | Creator | Data Enthusiast | Nature Lover🌿  
 
-Welcome to my GitHub — where curiosity meets code, and learning never stops. I believe that passion, creativity, and consistency can shape not only great projects but also better versions of ourselves.  
+Welcome to my GitHub , where curiosity meets code, and learning never stops. I believe that passion, creativity, and consistency can shape not only great projects but also better versions of ourselves.  
 
 
 ## ✨ About Me
 - 🎓 Pursuing my Master’s in Science (MSc) and a Data Science enthusiast  
 - 🐾 Kind-hearted and driven by emotion, compassion, and a desire to create impact  
-- 📝 I love storytelling — whether through data, words, or experiences  
+- 📝 I love storytelling , whether through data, words, or experiences  
 - ✍️ I write stories on life, growth, and success — drawn from personal reflections and written whenever inspiration finds me  
 - 🎶 Deeply inspired by music, nature, and meaningful connections  
 

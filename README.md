@@ -5,7 +5,7 @@ Welcome to my GitHub — where curiosity meets code, and learning never stops. I
 
 
 ## ✨ About Me
-- 🎓 Pursuing my Master’s in Science (MSc) and interning as a Data Science enthusiast  
+- 🎓 Pursuing my Master’s in Science (MSc) and a Data Science enthusiast  
 - 🐾 Kind-hearted and driven by emotion, compassion, and a desire to create impact  
 - 📝 I love storytelling — whether through data, words, or experiences  
 - ✍️ I write stories on life, growth, and success — drawn from personal reflections and written whenever inspiration finds me  
@@ -41,5 +41,5 @@ Welcome to my GitHub — where curiosity meets code, and learning never stops. I
 ```markdown
 Languages:     HTML | CSS | SQL | JavaScript (learning)
 Tools:         Power BI | Excel | MS Office | Git | VS Code
-Field:         Data Science | Storytelling | Visualization
+Field:         Data Science | Storytelling | Visualization | Content Writing
 
